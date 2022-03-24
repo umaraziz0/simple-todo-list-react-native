@@ -14,6 +14,7 @@ export default function App() {
     { id: 2, text: 'Learn React Native' },
     { id: 3, text: 'Create Todo App' },
     { id: 4, text: 'Use Todo App' },
+    { id: 4, text: 'Deploy Todo App' },
   ]);
 
   const [error, setError] = useState('');

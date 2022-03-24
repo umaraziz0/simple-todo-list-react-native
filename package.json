@@ -15,9 +15,9 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
+    "react-native-safe-area-context": "3.3.2",
     "react-native-web": "0.17.1",
-    "twrnc": "^3.0.2",
-    "react-native-safe-area-context": "3.3.2"
+    "twrnc": "^3.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
@@ -31,7 +31,11 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "eslint-plugin-react-native": "^4.0.0",
     "prettier": "^2.5.1",
-    "prettier-plugin-tailwindcss": "^0.1.8"
+    "prettier-plugin-tailwindcss": "^0.1.8",
+    "react-devtools": "^4.24.1",
+    "react-devtools-core": "^4.24.1",
+    "react-native-debugger-open": "^0.3.25",
+    "react-native-devtools": "^0.0.1"
   },
   "private": true
 }
